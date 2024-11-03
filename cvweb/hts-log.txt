@@ -1,0 +1,26 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sun, 03 Nov 2024 17:44:09 at https://lmpixels.com/demo/breezycv/darkfw/1/index.html#home https://lmpixels.com/demo/breezycv/darkfw/1/index.html#about-me https://lmpixels.com/demo/breezycv/darkfw/1/index.html#resume https://lmpixels.com/demo/breezycv/darkfw/1/index.html#contact +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://lmpixels.com/demo/breezycv/darkfw/1/index.html#home https://lmpixels.com/demo/breezycv/darkfw/1/index.html#about-me https://lmpixels.com/demo/breezycv/darkfw/1/index.html#resume https://lmpixels.com/demo/breezycv/darkfw/1/index.html#contact -O1 "C:\My Web Sites\cvweb" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:44:26	Warning: 	Found for https://lmpixels.com/robots.txt
+17:44:26	Warning: 	File has moved from https://lmpixels.com/robots.txt to https://lmpixels.com/404.shtml
+17:44:45	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/robots.txt (from primary/primary)
+17:44:45	Warning: 	Retry after error -5 (Unable to get server's address: No such host is known. ) at link primary/home (from primary/primary)
+17:44:47	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/about-me (from primary/primary)
+17:44:49	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/resume (from primary/primary)
+17:44:51	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/contact (from primary/primary)
+17:44:59	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/home (from primary/primary)
+17:45:06	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/about-me (from primary/primary)
+17:45:08	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/resume (from primary/primary)
+17:45:10	Warning: 	Retry after error -5 (Unable to get server's address: unknown error) at link primary/contact (from primary/primary)
+17:45:27	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/home (from primary/primary)
+17:45:27	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/about-me (from primary/primary)
+17:45:27	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/resume (from primary/primary)
+17:45:27	Error: 	"Unable to get server's address: unknown error" (-5) after 2 retries at link primary/contact (from primary/primary)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 19 seconds : 94 links scanned, 80 files written (6706243 bytes overall) [4806449 bytes received at 60841 bytes/sec], 3285969 bytes transferred using HTTP compression in 40 files, ratio 39%, 9.1 requests per connection
+(5 errors, 10 warnings, 0 messages)
